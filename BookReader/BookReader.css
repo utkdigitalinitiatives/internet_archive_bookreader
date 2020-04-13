@@ -229,8 +229,8 @@
 a.logo {
     display: block;
     float: left;
-    width: 40px;
-    height: 40px;
+    width: 0px;
+    height: 0px;
     margin: 0 5px;
     background: transparent url(images/icon_home.png) no-repeat 0 0;
 }
